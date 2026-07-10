@@ -1,4 +1,4 @@
-# 🏋️ Gym Member Experience Level Classification
+# Gym Member Experience Level Classification
 
 Klasifikasi tingkat pengalaman (Experience Level) anggota gym berdasarkan data aktivitas dan fisik menggunakan algoritma **Decision Tree Classifier**.
 
@@ -99,4 +99,4 @@ jupyter notebook Gym_Member_Exercise_Tracking.ipynb
 ## 👤 Author
 
 **Muhammad Danu Setiawan**
-[LinkedIn](https://www.linkedin.com/in/danu-setiawan-98b496348/) · [GitHub](https://github.com/DanuSetiawan05)
+[LinkedIn](https://www.linkedin.com/in/muhammaddanusetiawan/) · [GitHub](https://github.com/DanuSetiawan05)
