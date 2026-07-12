@@ -2,6 +2,8 @@
 
 Klasifikasi tingkat pengalaman (Experience Level) anggota gym berdasarkan data aktivitas dan fisik menggunakan algoritma **Decision Tree Classifier**.
 
+> *Project ini dikerjakan sebagai tugas mata kuliah Pengantar Data Mining (Introduction to Data Mining) pada semester 5.*
+
 ## Latar Belakang
 
 Gym dan pusat kebugaran modern semakin banyak memanfaatkan data untuk memahami perilaku dan kebutuhan anggotanya. Salah satu informasi yang berguna adalah **tingkat pengalaman (Experience Level)** anggota. Apakah mereka pemula, menengah, atau mahir, karena informasi ini dapat digunakan untuk personalisasi program latihan, rekomendasi kelas, hingga strategi retensi member.
@@ -99,4 +101,3 @@ jupyter notebook Gym_Member_Exercise_Tracking.ipynb
 ## Author
 
 **Muhammad Danu Setiawan**
-[LinkedIn](https://www.linkedin.com/in/muhammaddanusetiawan/) · [GitHub](https://github.com/DanuSetiawan05)
